@@ -1,0 +1,20 @@
+Range	Expected fraction of population inside range	Approx Expected Frequency	Approximate frequency for daily event 
+mu ±0.5sig	0.382 924 922 548 026 	2 in 3	Four times a week 
+mu ±1sig	0.682 689 492 137 086 	1 in 3 	Twice a week 
+mu ±1.5sig	0.866 385 597 462 284 	1 in 7	Weekly 
+mu ±2sig	0.954 499 736 103 642 	1 in 22 	Every three weeks 
+mu ±2.5sig	0.987 580 669 348 448 	1 in 81 	Quarterly 
+mu ±3sig	0.997 300 203 936 740 	1 in 370 	Yearly 
+mu ±3.5sig	0.999 534 741 841 929 	1 in 2149 	Every six years 
+mu ±4sig	0.999 936 657 516 334 	1 in 15 787 	Every 43 years (twice in a lifetime) 
+mu ±4.5sig	0.999 993 204 653 751 	1 in 147 160 	Every 403 years (once in the modern era) 
+mu ±5sig	0.999 999 426 696 856 	1 in 1 744 278 	Every 4776 years (once in recorded history) 
+mu ±5.5sig	0.999 999 962 020 875 	1 in 26 330 254 	Every 72 090 years (thrice in history of modern humankind)
+mu ±6sig	0.999 999 998 026 825 	1 in 506 797 346 	Every 1.38 million years (twice in history of humankind)
+mu ±6.5sig	0.999 999 999 919 680 	1 in 12 450 197 393 	Every 34 million years (halfivay since the extinction of dinosaurs) 
+mu ±7sig	0.999 999 999 997440	1 in 390 682 215 445 	Every 1.07 billion years (a quarter of Earth's history) 
+
+CLT:
+
+If we take infinite samples from normal dist, then distribution of the sample means is bell shaped with a mean equal to the population mean. 
+Sampling distribution of sample mean is always normal.
